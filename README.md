@@ -10,7 +10,7 @@ Proyecto desarrollado en NestJS, es una aplicación backend que permite crear, m
 
 1. Clonar el repositorio
 ```
-git clone https://github.com/bl0pez/Cars-nestJS.git
+
 ```
 2. Instalar las dependencias
 ```
